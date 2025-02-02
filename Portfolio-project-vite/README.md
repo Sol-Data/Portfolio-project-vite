@@ -5,10 +5,10 @@ Web Developers often work with a variety of frameworks.
 In this course, you will learn how to apply different frameworks, 
 and analyze the strengths and weaknesses of each framework.
 
-1. Create a site using [vite](https://github.com/Sol-Data /Portfolio-project-vite). 
+1. Create a site using [vite](https://github.com/Sol-Data/Portfolio-project-vite). 
 2. Create a site using [react.js](https://github.com/Sol-Data/Portfolio-project-react). 
 3. create a site using [vue.js](https://github.com/Sol-Data/Portfolio-project-vue).
-4. Create a site using [next.js] (https://github.com/Sol-Data/Portfolio-project-next).
+4. Create a site using [next.js](https://github.com/Sol-Data/Portfolio-project-next).
 
 In this project, you'll create four iterations of a portfolio concept site and learn how to use JavaScript frameworks to create sites efficiently.
 
