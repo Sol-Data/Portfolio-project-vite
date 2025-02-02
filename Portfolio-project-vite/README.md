@@ -25,7 +25,7 @@ Preview :
 - Design the basic layout of a website based on HTML and CSS, and work in compliance with web standards and web accessibility. [Accessible Rich Internet Applications (ARIA)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 
 ## Run the project
-- Install vite. npm create vite@latest`
+- Install vite. `npm create vite@latest`
 - Install gsap. `npm install gsap`
 - Install lenis. `npm install @studio-freight/lenis`
 - After installing vite, configure it. Create a file called `vite.config.js` and write the following
